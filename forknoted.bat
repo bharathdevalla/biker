@@ -1,0 +1,1 @@
+lib\forknoted.exe --config-file configs/bikercoin.conf
